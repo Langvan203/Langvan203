@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Langvan203
+- 👋 Hi, I'm Van
 - 🌱 I’m currently learning Software Engineering in Hanoi University of Industry
 
 <!---
